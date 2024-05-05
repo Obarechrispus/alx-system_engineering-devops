@@ -3,7 +3,7 @@
 #we are usng the while loop
 count=1
 
-while [ $count -le 10 ]
+while [ $count -le 9 ]
 do
 	echo "Best school"
 	((count++))
