@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+count=1
+for ((count=1; count<11; count++))
+
+do
+	echo "Best School"
+done
