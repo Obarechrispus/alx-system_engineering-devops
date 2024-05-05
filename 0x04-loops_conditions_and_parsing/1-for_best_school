@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+#a bash script that takea variable count
+#and using a for loop we itirate 10 time
+#printig best school each time we itirates
 count=1
 for ((count=1; count<11; count++))
 
