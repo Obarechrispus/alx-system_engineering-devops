@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#a simple bash script that prints a pharse 10 time
+#we are usng the while loop
+count=1
+
+while [ $count -le 10 ]
+do
+	echo "Best school"
+	((count++))
+done
