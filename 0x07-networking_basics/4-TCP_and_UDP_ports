@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-netstat -tulpan | awk  '/LISTEN/ {print $4,$7}'
+netstat -1 -p
